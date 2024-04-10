@@ -202,7 +202,9 @@ p{
 .events .ctn{
     margin-top: 30px;
 }
-
+.c .event-img{
+  width: 80%;
+}
 .flex-container{
     width: 100%;
     height: auto;
@@ -491,7 +493,7 @@ p{
         flex-direction: column;
     }
     .c .event-img{
-        max-width: 90%;
+      width: 90%;
     }
     
    
